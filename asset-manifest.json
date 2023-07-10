@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HBdone/static/css/main.db0ff9ad.css",
+    "main.js": "/HBdone/static/js/main.0ccb1c18.js",
+    "static/js/787.38c19021.chunk.js": "/HBdone/static/js/787.38c19021.chunk.js",
+    "static/media/splash.gif": "/HBdone/static/media/splash.c45ba029c5759ddab179.gif",
+    "static/media/or_bg.png": "/HBdone/static/media/or_bg.0aaf1ee600054f8e41b8.png",
+    "static/media/or_btn1.png": "/HBdone/static/media/or_btn1.098b3cb0138503969e36.png",
+    "static/media/or_btn2.png": "/HBdone/static/media/or_btn2.c44475c86fca0bbf8d7b.png",
+    "index.html": "/HBdone/index.html",
+    "main.db0ff9ad.css.map": "/HBdone/static/css/main.db0ff9ad.css.map",
+    "main.0ccb1c18.js.map": "/HBdone/static/js/main.0ccb1c18.js.map",
+    "787.38c19021.chunk.js.map": "/HBdone/static/js/787.38c19021.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0ff9ad.css",
+    "static/js/main.0ccb1c18.js"
+  ]
+}
